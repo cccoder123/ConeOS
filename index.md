@@ -1,22 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to The Official Site of ConeOS!
+ConeOS is a new linux distro built on Ubuntu 20.10.
+We have included a lot of new software in the OS!
 
-You can use the [editor on GitHub](https://github.com/cccoder123/ConeOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
-
-- Bulleted
-- List
+Download
+- [Desktop Edition](ConeOS-21-2020-10-27-Desktop-amd64.iso)
+- [Server edition](ConeOS-21-2020-10-27-Server-amd64-iso)
 
 1. Numbered
 2. List
